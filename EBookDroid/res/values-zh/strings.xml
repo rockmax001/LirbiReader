@@ -4,7 +4,7 @@
    <string name="automatic">自动</string>
    <string name="autor_ivan_ivanenko">作者: Ivan Ivanenko</string>
    <string name="black">暗色调</string>
-   <string name="bookmark_on_page_">为该页添加书签</string>
+   <string name="bookmark_on_page_">添加书签</string>
    <string name="bookmarks">书签</string>
    <string name="brightness">亮度</string>
    <string name="cancel">取消</string>
@@ -14,7 +14,7 @@
    <string name="content_of_book">目录</string>
    <string name="crop_white_borders">裁白边</string>
    <string name="delete">删除</string>
-   <string name="delete_book_">从设备存储删除该书？</string>
+   <string name="delete_book_">删除文件？</string>
    <string name="dialog_color_picker">颜色选择</string>
    <string name="export_">导出 ...</string>
    <string name="export_bookmarks">导出书签</string>
