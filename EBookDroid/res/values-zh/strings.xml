@@ -103,7 +103,7 @@
    <string name="dictionary">字典</string>
    <string name="___STATUS___BAR___SETTINGS___SECTION___">状态栏设置</string>
    <string name="import_bookmarks">导入书签</string>
-   <string name="email">电子邮件</string>
+   <string name="email">邮件</string>
    <string name="file">文件</string>
    <string name="file_not_found">无结果</string>
    <string name="send_file">发送文件</string>
@@ -289,8 +289,8 @@
    <string name="___TO___CHECK___SECTION___">检查</string>
    <string name="show_progress_of_reading">显示进度条</string>
    <string name="line_height">进度条宽</string>
-   <string name="display_chapters_on_the_progress_line">显示章节预览</string>
-   <string name="enable_brightness_adjustment_on_the_left_of_the_screen">屏幕左侧调节亮度</string>
+   <string name="display_chapters_on_the_progress_line">显示出章节预览</string>
+   <string name="enable_brightness_adjustment_on_the_left_of_the_screen">屏幕的左侧调节亮度</string>
    <string name="___INDEFINITE___SECTION___">无限</string>
    <string name="enable_rewind_of_pages_using_the_read_progress_line">进度条控制进度</string>
    <string name="catalogs">在线书库</string>
